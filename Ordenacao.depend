@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1710260757 source:c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"headers.h"
+
+1710246940 c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710246948 c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesort.h
+	<stdio.h>
+	<time.h>
+	<locale.h>
+
+1710246890 c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesort2.h
+	<stdio.h>
+	<sys/time.h>
+	<locale.h>
+
+1710260790 c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsort2.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710260742 c:\users\lucas\my drive (lucaspires.2017@alunos.utfpr.edu.br)\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\headers.h
+	"bubblesort.h"
+	"bubblesort2.h"
+	"insertsort.h"
+	"insertsort2.h"
+
+1710564403 source:c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"headers.h"
+
+1710564252 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\headers.h
+	"BubbleSortClock.h"
+	"BubbleSortHora.h"
+	"InsertSortClock.h"
+	"InsertSortHora.h"
+
+1710246948 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesort.h
+	<stdio.h>
+	<time.h>
+	<locale.h>
+
+1710246890 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesort2.h
+	<stdio.h>
+	<sys/time.h>
+	<locale.h>
+
+1710246940 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710260790 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsort2.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710564183 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesortclock.h
+	<stdio.h>
+	<time.h>
+	<locale.h>
+
+1710564178 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\bubblesorthora.h
+	<stdio.h>
+	<sys/time.h>
+	<locale.h>
+
+1710564168 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsortclock.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710564156 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\new folder\ordenacao\insertsorthora.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710848657 source:c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"headers.h"
+
+1710848227 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\headers.h
+	"BubbleSortClock.h"
+	"BubbleSortHora.h"
+	"InsertSortClock.h"
+	"InsertSortHora.h"
+	"SelectionSort.h"
+	"ImprimeVetor.h"
+
+1710847208 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\bubblesortclock.h
+	<stdio.h>
+	<time.h>
+	<locale.h>
+
+1710847208 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\bubblesorthora.h
+	<stdio.h>
+	<sys/time.h>
+	<locale.h>
+
+1710847208 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\insertsortclock.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710847208 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\insertsorthora.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710848586 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\selectionsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1710848352 c:\users\user\downloads\ordenacao-20240319t111939z-001\ordenacao\imprimevetor.h
+
