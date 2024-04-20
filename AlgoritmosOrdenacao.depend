@@ -74,3 +74,49 @@
 	<stdio.h>
 	<time.h>
 
+1712057104 source:c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"headers.h"
+
+1712056652 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\headers.h
+	"bibliotecasOrdenacao\BubbleSort.h"
+	"bibliotecasOrdenacao\InsertSort.h"
+	"bibliotecasOrdenacao\SelectionSort.h"
+	"bibliotecasOrdenacao\ShellSort.h"
+	"bibliotecasOrdenacao\QuickSort.h"
+	"bibliotecasOrdenacao\MergeSort.h"
+	"ImprimeVetor.h"
+
+1711450325 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\bubblesort.h
+	<stdio.h>
+	<sys/time.h>
+	<locale.h>
+
+1711450325 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\insertsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1711450325 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\selectionsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1711453853 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\shellsort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1711455114 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\quicksort.h
+	<stdio.h>
+	<time.h>
+
+1712058110 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\bibliotecasordenacao\mergesort.h
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
+1711455204 c:\users\lucas\my drive\materias\4. pesquisa e ordenação de dados\algoritmosordenacao\algoritmosdeordenacao\imprimevetor.h
+

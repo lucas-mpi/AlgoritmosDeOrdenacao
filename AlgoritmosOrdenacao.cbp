@@ -34,12 +34,14 @@
 		<Unit filename="ImprimeVetor.h" />
 		<Unit filename="bibliotecasOrdenacao/BubbleSort.h" />
 		<Unit filename="bibliotecasOrdenacao/InsertSort.h" />
+		<Unit filename="bibliotecasOrdenacao/MergeSort.h" />
 		<Unit filename="bibliotecasOrdenacao/SelectionSort.h" />
 		<Unit filename="bibliotecasOrdenacao/ShellSort.h" />
 		<Unit filename="headers.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="tempoExecucao.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

@@ -29,6 +29,8 @@ int main(void)
     printf("\n2 - InsertSort");
     printf("\n3 - SelectionSort");
     printf("\n4 - ShellSort");
+    printf("\n5 - QuickSort");
+    printf("\n6 - Merge Sort");
     printf("\nInforme a opção de ordenação desejada: ");
     scanf("%d", &opcaoMenu);
 
@@ -53,9 +55,22 @@ int main(void)
         case 5:
             imprimeVetor(vetor, 50);
             quickSort(vetor, 0, qntdRegistros-1);
-
             imprimeVetor(vetor, 50);
         break;
+
+        case 6:
+            imprimeVetor(vetor, 50);
+
+            struct timeval inicio, fim;
+            gettimeofday(&inicio, NULL);
+
+            mergeSort(vetor, 0, qntdRegistros - 1);
+
+            gettimeofday(&fim, NULL);
+            double tempo = (fim.tv_sec - inicio.tv_sec) + (fim.tv_usec - inicio.tv_usec)/100000.0;
+            printf("\n\nTempo de ordenação: %.7f\n ", tempo);
+
+            imprimeVetor(vetor, 50);
 
 
     }

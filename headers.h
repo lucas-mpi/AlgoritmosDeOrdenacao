@@ -1,8 +1,9 @@
-#include "BibliotecasOrdenacao\BubbleSort.h"
-#include "BibliotecasOrdenacao\InsertSort.h"
-#include "BibliotecasOrdenacao\SelectionSort.h"
-#include "BibliotecasOrdenacao\ShellSort.h"
+#include "bibliotecasOrdenacao\BubbleSort.h"
+#include "bibliotecasOrdenacao\InsertSort.h"
+#include "bibliotecasOrdenacao\SelectionSort.h"
+#include "bibliotecasOrdenacao\ShellSort.h"
 #include "bibliotecasOrdenacao\QuickSort.h"
+#include "bibliotecasOrdenacao\MergeSort.h"
 #include "ImprimeVetor.h"
 
 void imprimeVetor(long int vetor[],long int tam);
